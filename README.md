@@ -19,7 +19,7 @@ If you don't want to copy the code from this document, you can clone the reposit
     WEATHER_API_KEY = "<your_weather_api_key>"
     ```
 
-### Note: Don't add `secrets.py` to your git repo!
+#### Note: Don't add `secrets.py` to your git repo!
 
 ## Run Twitter Weather
 
